@@ -1,6 +1,9 @@
-# Exercicio1
-Exercício de git
+# Benvindo ao exercício 1 de GIT!
 
-Leia-me do exercício 1.
+Esse é um teste de readme com ediçaõ de texto.
 
-Não deixe de seguir estas instruções
+Estou colocando algumas **formatações** diferentes para testar.
+
+# Titulo2
+
+Aqui vai o texto do módulo 2.
